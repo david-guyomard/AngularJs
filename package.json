@@ -15,7 +15,7 @@
     "browser-sync": "^2.26.3",
     "browserify": "^14.3.0",
     "del": "^2.2.2",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-angular-embed-templates": "^2.3.0",
     "gulp-clean-css": "^3.0.4",
     "gulp-html-dependencies": "^1.1.0",
